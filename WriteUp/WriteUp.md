@@ -30,8 +30,7 @@ sistem sistem apa yang encryptionnya advanced?
 ## Marsha and The Bear
 
 **Description**  
-sistem sistem apa yang encryptionnya advanced?  
-**Case Program** [here](https://drive.google.com/file/d/1qwj0zfJ2rtYAyqBBeJ8_rRjIYaHuMZcQ/view?usp=sharing)  
-**Output.txt:** 7f58d3bc1a17c6288f50aa52489c326fc2eb0abc76d010879abc6cc0153c24863051b11aa49ab82efed1f2b85e327bbe  
-**Solutions**  
+Do you know what pyc is?  
+**Case Program** [here](https://drive.google.com/file/d/1NCfal6WluGXGlytrVj1osxvCGFXZ2gyf/view?usp=sharing)   
+**Solutions**   
 
