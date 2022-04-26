@@ -8,6 +8,7 @@
 | 3. | Strop                          | Reverse Engineering   | anjay{strip_sans}
 
 ## Etpenced Enkripsen System
+
 **Desctiption**
 sistem sistem apa yang encryptionnya advanced?
 **Soal**
