@@ -22,6 +22,7 @@ sistem sistem apa yang encryptionnya advanced?
 4. Seperate the text in output.txt according to the pattern above.
 5. Make a new code to decrypt the text.  
 ![image](https://user-images.githubusercontent.com/74954683/165333452-0d7fc76a-6f67-4787-ad37-1151177f8ea8.png)  
-6. run the code and we get the flag.    
+6. run the code and we get the flag.  
+
 **FLAG:** anjay{symmetric_kind_of_encrypt}  
 
