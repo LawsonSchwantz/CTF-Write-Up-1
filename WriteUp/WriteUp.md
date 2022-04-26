@@ -9,7 +9,7 @@
 
 ## Etpenced Enkripsen System
 
-**Description**  
+**Desctiption**  
 sistem sistem apa yang encryptionnya advanced?
 **Soal**
 See [here](https://drive.google.com/file/d/1qwj0zfJ2rtYAyqBBeJ8_rRjIYaHuMZcQ/view?usp=sharing)
