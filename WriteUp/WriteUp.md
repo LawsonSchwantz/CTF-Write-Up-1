@@ -20,7 +20,7 @@ sistem sistem apa yang encryptionnya advanced?
 2.Input any text in flag.txt.  
 3.Get the pattern between the plaintext and key after been encrypted.  
 ![image](https://user-images.githubusercontent.com/74954683/165333077-24d7dccc-7004-4074-841a-e43c516b6ff3.png)  
-4.Seperate the text in output.txt according to the pattern above.
+4.Seperate the text in output.txt according to the pattern above.  
 5.Make a new code to decrypt the text.  
 ![image](https://user-images.githubusercontent.com/74954683/165333452-0d7fc76a-6f67-4787-ad37-1151177f8ea8.png)  
 6.Run the code and we get the flag.  
