@@ -10,8 +10,6 @@
 ## Etpenced Enkripsen System
 
 **Description**  
-A program has been provided to you, what happens if you try to run it on the command line?
-**Desctiption**
 sistem sistem apa yang encryptionnya advanced?
 **Soal**
 See [here](https://drive.google.com/file/d/1qwj0zfJ2rtYAyqBBeJ8_rRjIYaHuMZcQ/view?usp=sharing)
