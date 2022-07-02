@@ -12,7 +12,7 @@
 **Description**  
 sistem sistem apa yang encryptionnya advanced?  
 **Case Program** [here](https://drive.google.com/file/d/1qwj0zfJ2rtYAyqBBeJ8_rRjIYaHuMZcQ/view?usp=sharing)  
-**Output.txt:** 7f58d3bc1a17c6288f50aa52489c326fc2eb0abc76d010879abc6cc0153c24863051b11aa49ab82efed1f2b85e327bbe  
+**Output.txt:** 7f58d3bc1a17c6288f50aa52489c326fc2eb0abc76d010879abc6cc0153c24863051b11aa49ab82efed1f2b85e327bbe    
 **Solutions**  
 
 1.Make a new file named flag.txt and open the case program.  
@@ -47,9 +47,9 @@ Do you know what pyc is?
 ## Strop
 
 **Description**  
-stripped stropped, fligged flogged
-**Case Program** [here](https://drive.google.com/file/d/1lwPTVwr_-24IgRy7CtDy2CSbPPNh3aFF/view?usp=sharing)
-**Solutions**
+stripped stropped, fligged flogged 
+**Case Program** [here](https://drive.google.com/file/d/1lwPTVwr_-24IgRy7CtDy2CSbPPNh3aFF/view?usp=sharing) 
+**Solutions** 
 
 1. Check the file with 'strings' command
 ![image](https://user-images.githubusercontent.com/74954683/177003426-ea3bd48c-7d64-4365-b3b5-aabe89db282e.png)
@@ -57,7 +57,7 @@ stripped stropped, fligged flogged
 ![image](https://user-images.githubusercontent.com/74954683/177003440-a9947b12-0921-4acb-9d29-38d54e4d7590.png)
 3. Found some ascii characters and rearrange according to the array
 ![image](https://user-images.githubusercontent.com/74954683/177003490-8aeb3b34-fcba-49d2-9a5c-1b9bd71a4c8b.png)
-4. Found the flag!
+4. Found the flag! 
 ![image](https://user-images.githubusercontent.com/74954683/177003499-19886eaa-e719-4e00-aa27-43605c347a34.png)
 
 **FLAG:** anjay{strip_sans}
