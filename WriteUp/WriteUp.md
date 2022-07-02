@@ -47,9 +47,9 @@ Do you know what pyc is?
 ## Strop
 
 **Description**  
-stripped stropped, fligged flogged 
-**Case Program** [here](https://drive.google.com/file/d/1lwPTVwr_-24IgRy7CtDy2CSbPPNh3aFF/view?usp=sharing) 
-**Solutions** 
+stripped stropped, fligged flogged  
+**Case Program** [here](https://drive.google.com/file/d/1lwPTVwr_-24IgRy7CtDy2CSbPPNh3aFF/view?usp=sharing)  
+**Solutions**  
 
 1. Check the file with 'strings' command
 ![image](https://user-images.githubusercontent.com/74954683/177003426-ea3bd48c-7d64-4365-b3b5-aabe89db282e.png)
