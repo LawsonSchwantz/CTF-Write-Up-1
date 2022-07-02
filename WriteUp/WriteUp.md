@@ -57,7 +57,7 @@ stripped stropped, fligged flogged
 ![image](https://user-images.githubusercontent.com/74954683/177003440-a9947b12-0921-4acb-9d29-38d54e4d7590.png)
 3. Found some ascii characters and rearrange according to the array
 ![image](https://user-images.githubusercontent.com/74954683/177003490-8aeb3b34-fcba-49d2-9a5c-1b9bd71a4c8b.png)
-4. Found the flag! 
+4. Found the flag!  
 ![image](https://user-images.githubusercontent.com/74954683/177003499-19886eaa-e719-4e00-aa27-43605c347a34.png)
 
 **FLAG:** anjay{strip_sans}
