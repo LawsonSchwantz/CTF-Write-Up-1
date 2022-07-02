@@ -34,3 +34,17 @@ Do you know what pyc is?
 **Case Program** [here](https://drive.google.com/file/d/1NCfal6WluGXGlytrVj1osxvCGFXZ2gyf/view?usp=sharing)   
 **Solutions**   
 
+1. Uncompyle file from .pyc to .py using uncompyle6 
+![image](https://user-images.githubusercontent.com/74954683/177003255-615c3ea9-cf34-46f2-8e2c-94809f360a72.png)
+2. Read and analyse the file 
+3. Found a code with a sha256 type hash in the 'if' command and decompyle it
+![image](https://user-images.githubusercontent.com/74954683/177003308-f1585749-f4c3-4eed-b8a6-ed6885c4488e.png)
+4. Got the flag!
+![image](https://user-images.githubusercontent.com/74954683/177003315-42354d15-08fc-407c-8fbb-ded5fe500554.png)
+
+**FLAG:** anjay{73313}  
+
+## Strop
+
+**Description**  
+stripped stropped, fligged flogged
